@@ -1,6 +1,7 @@
 #### Привет, я Python-разработчик
 
 #### **Мой технический стек**
++ ##### Python https://github.com/OsichkinaElena/course_work_basis/blob/master/work2.py
 + ##### Python, SQL https://github.com/OsichkinaElena/vk_bot
 + ##### Flask https://github.com/OsichkinaElena/flask/tree/master
 + ##### Aiohttp https://github.com/OsichkinaElena/aiohttp
